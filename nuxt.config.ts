@@ -13,10 +13,9 @@ export default defineNuxtConfig({
   },
 
   // css
-  css: ['~/assets/sass/vendor.scss', '~/assets/sass/app.scss'],
+  css: ['~/assets/sass/app.scss'],
 
   // plugins
-  plugins: ['~/plugins/navbar.ts'],
 
   // build
   build: {
